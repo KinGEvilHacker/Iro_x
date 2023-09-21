@@ -3,29 +3,29 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+IRO+X+MUSIC)](https://github.com/shaeep043/Iro_X)
 
 <h2 align="center">
-    ──「 Iro X Music 」──
+    ──「 𝙄𝙈𝙈𝙊𝙍𝙏𝘼𝙇 么 𝙈𝙐𝙎𝙄𝘾 ♡ 」──
 </h2>
 <p align="center">
-  <img src="https://te.legra.ph/file/7b9bfe8d7fbb2589071e3.jpg">
+  <img src="https://graph.org/file/fc5ee9d1d73f2ca1206ea.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/shaeep043/Iro_x/stargazers"><img src="https://img.shields.io/github/stars/shaeep043/Iro_x?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/shaeep043/Iro_x/network/members"> <img src="https://img.shields.io/github/forks/shaeep043/Iro_x?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/shaeep043/Iro_x/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/KinGEvilHacker/Iro_x/stargazers"><img src="https://img.shields.io/github/stars/KinGEvilHacker/Iro_x?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/KinGEvilHacker/network/members"> <img src="https://img.shields.io/github/forks/KinGEvilHacker/Iro_x?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/KinGEvilHacker/Iro_x/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/shaeep043/Iro_x/commits/shaeep043"> <img src="https://img.shields.io/github/last-commit/shaeep043/Iro_x?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/KinGEvilHacker/Iro_x/commits/shaeep043"> <img src="https://img.shields.io/github/last-commit/shaeep043/Iro_x?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/b8e797457f437310813cb.jpg">
+  <img src="(https://graph.org/file/fc5ee9d1d73f2ca1206ea.jpg)">
 </p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/shaeep043/Iro_x"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/KinGEvilHacker/Iro_x"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
@@ -64,15 +64,15 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/Iro_m_bot"><img src="https://img.shields.io/badge/MUSIC%20BOT-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Theimmortal_bot"><img src="https://img.shields.io/badge/MUSIC%20BOT-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/iro_x_support"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/The_Immortals_Kings"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/iro_bot_support"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/miss_x_network"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
